@@ -33,5 +33,5 @@ func main() {
 
 func home(w http.ResponseWriter, r *http.Request) {
 
-	w.Write([]byte("Bem-vindo à nossa HOMPAGE!"))
+	w.Write([]byte("Bem-vindo à nossa HOMPAGE! no Heroku"))
 }
