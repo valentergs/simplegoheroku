@@ -1,1 +1,1 @@
-web: ./bin/simplego
+web: bin/simplego
