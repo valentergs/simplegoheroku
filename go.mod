@@ -1,3 +1,4 @@
+// +heroku goVersion go1.15
 module github.com/valentergs/simplegoheroku
 
 go 1.15
